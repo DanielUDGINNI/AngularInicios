@@ -1,0 +1,16 @@
+section {
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 32px;
+    font-size: 40px;
+}
+
+img {
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+}
+
+img:hover {
+    cursor: pointer;
+}
